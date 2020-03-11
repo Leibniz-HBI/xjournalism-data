@@ -2,7 +2,7 @@
 Data collection on our glossary of journalism terms via various sources e.g.   
 Times API, Wikidata, Google Scholar, Google nGrams, Ebsco.
   
-https://xjournalism.org/de
+https://xjournalism.org
 
 ### Prerequisites
 
